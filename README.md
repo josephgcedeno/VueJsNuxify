@@ -34,3 +34,7 @@
 - npm run build or vue-cli-service build
 - The dist folder would be the actual app that can be deployed
 - serve -s dist to test run the production build if error npm install -g serve
+
+
+### General purpose of Frontend web Development
+*"The general purpose of the frontend would be to display an informative data or infomration to the users. To easily navigate and use the intentions of the website or webpage." - Cedeno, Joseph G. Jr. Uuwu*
