@@ -28,7 +28,7 @@
 # To Run/Create CLI:
 - vue create app_name
 - npm run serve or vue-cli-service serve
-- answers: ``` (uncheck lint, check typescript),version 3, no,use babel alongside = y, historymode = y,in dedicated config file,preset future = n ```
+- answers: ``` (uncheck lint, check typescript,router pud),version 3, no,use babel alongside = y, historymode = y,in dedicated config file,preset future = n ```
 
 
 # To deploy the web app:
