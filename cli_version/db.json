@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Doctor appointment",
+      "day": "March",
+      "reminder": true
+    },
+    {
+      "text": "magic",
+      "day": "ugma",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "general purpose",
+      "day": "unya",
+      "reminder": false,
+      "id": 5
+    }
+  ]
+}

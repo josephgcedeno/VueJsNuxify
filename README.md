@@ -23,7 +23,14 @@
         - NPM
 - **V-bind**: The v-bind directive is a Vue. js directive used to bind one or more attributes, or a component prop to an element. If that attribute is bonded to our data defined in Vue instance then dynamically changes can be observed as data changes.
 
+- **vue.config.js**: With this file, we can properly add a proxy to the server instead of statically write it. 
 
 # To Run/Create CLI:
 - vue create app_name
 - npm run serve or vue-cli-service serve
+
+
+# To deploy the web app:
+- npm run build or vue-cli-service build
+- The dist folder would be the actual app that can be deployed
+- serve -s dist to test run the production build if error npm install -g serve
